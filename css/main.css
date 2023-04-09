@@ -66,6 +66,10 @@ li {
 }
 
 
+.navitem a:hover {
+    color: white;
+}
+
 
 /*welcome classes mobile*/
 
